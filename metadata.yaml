@@ -1,0 +1,32 @@
+_repo: History-of-the-United-Co-operative-Baking-Society-Ltd-b-A-fifty-years-record-18691919_71749
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reid, William
+    gutenberg_agent_id: '56377'
+    url: http://www.gutenberg.org/2009/agents/56377
+description: ''
+gutenberg_issued: '2023-09-28'
+identifiers:
+  gutenberg: '71749'
+  lccn: '44030940'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924092618564
+pgterms:marc905: 20190421040702reid
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Richard Tonsing, MFR, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bUnited Co-operative Baking Society Limited,
+  $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United Co-operative Baking Society, Ltd., Glasgow'
+- !lcc 'HD'
+- GITenberg
+title: 'History of the United Co-operative Baking Society Ltd. : $b A fifty years''
+  record 1869–1919'
+url: http://www.gutenberg.org/ebooks/71749
