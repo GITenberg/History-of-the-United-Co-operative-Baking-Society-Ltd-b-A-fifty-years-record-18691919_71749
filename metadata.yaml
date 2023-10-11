@@ -1,11 +1,16 @@
 _repo: History-of-the-United-Co-operative-Baking-Society-Ltd-b-A-fifty-years-record-18691919_71749
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reid, William
     gutenberg_agent_id: '56377'
     url: http://www.gutenberg.org/2009/agents/56377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71749#History-of-the-United-Co-operative-Baking-Society-Ltd-b-A-fifty-years-record-18691919
 gutenberg_issued: '2023-09-28'
 identifiers:
   gutenberg: '71749'
